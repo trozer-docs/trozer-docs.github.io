@@ -70,3 +70,21 @@ footer nav ul li a {
     color: #fff;
     text-decoration: none;
 }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            padding: 20px;
+        }
+
+        h1, h2 {
+            color: #0F6148;
+        }
+
+        p {
+            margin: 0 0 15px;
+        }
+
+        .heading-container {
+            margin-bottom: 40px;
+        }
